@@ -1,0 +1,12 @@
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\bin\Debug\net6.0\backend_api.Domains.deps.json
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\bin\Debug\net6.0\backend_api.Domains.dll
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\bin\Debug\net6.0\backend_api.Domains.pdb
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\obj\Debug\net6.0\backend_api.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\obj\Debug\net6.0\backend_api.Domains.AssemblyInfoInputs.cache
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\obj\Debug\net6.0\backend_api.Domains.AssemblyInfo.cs
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\obj\Debug\net6.0\backend_api.Domains.csproj.CoreCompileInputs.cache
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\obj\Debug\net6.0\backend_api.Domains.sourcelink.json
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\obj\Debug\net6.0\backend_api.Domains.dll
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\obj\Debug\net6.0\refint\backend_api.Domains.dll
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\obj\Debug\net6.0\backend_api.Domains.pdb
+C:\Users\hgarn\Desktop\Store-App\backend_api\DomainCore\backend_api.Domains\obj\Debug\net6.0\ref\backend_api.Domains.dll

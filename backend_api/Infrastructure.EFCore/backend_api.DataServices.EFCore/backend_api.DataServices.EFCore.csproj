@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\Core\backend_api.Core\backend_api.Core.csproj"/>
+        <ProjectReference Include="..\..\DomainCore\backend_api.DataServices.Interfaces\backend_api.DataServices.Interfaces.csproj"/>
+        <ProjectReference Include="..\..\DomainCore\backend_api.Domains\backend_api.Domains.csproj"/>
+    </ItemGroup>
+
+</Project>

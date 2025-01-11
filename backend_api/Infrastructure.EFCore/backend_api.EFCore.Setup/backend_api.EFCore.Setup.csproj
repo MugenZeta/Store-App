@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.3"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.3"/>
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\..\Core\backend_api.Test.Core\backend_api.Test.Core.csproj"/>
+        <ProjectReference Include="..\..\DomainCore\backend_api.Domains.TestData\backend_api.Domains.TestData.csproj"/>
+        <ProjectReference Include="..\backend_api.DataServices.EFCore\backend_api.DataServices.EFCore.csproj"/>
+    </ItemGroup>
+</Project>
